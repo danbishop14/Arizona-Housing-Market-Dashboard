@@ -1,6 +1,7 @@
 # Housing Market Dashboard
 
-## Project Overview
+## Project Overview![Dashboard](https://user-images.githubusercontent.com/69700884/231599412-6123e305-0647-4427-912d-758e25f21253.JPG)
+
 
 This project aims to analyze the housing market in Arizona's largest real estate markets. We extract data from Redfin's S3 bucket, clean and transform the data, and then load it into Power BI for visualization and analysis.
 
