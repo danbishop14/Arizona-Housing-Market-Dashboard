@@ -27,5 +27,5 @@ This project aims to analyze the housing market in Arizona's largest real estate
 
 Note: Power BI might not allow importing more than 2GB of data using a Python script. Ensure that the data being imported is within the allowed limit.
 
-##Project Output
+## Project Output
 The project provides a cleaned and transformed CSV file containing Arizona housing market data, which can be used for analysis and visualization in Power BI.
